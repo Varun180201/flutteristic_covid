@@ -1,8 +1,9 @@
 # FLUTTERISTIC COVID
 
-VIDEO LINK : [LINK](https://drive.google.com/file/d/1Al6PdmxPIglQ7s_Vb6G5OY9KNiG8o6kA/view?usp=sharing)
+# VIDEO LINK :
+[LINK](https://drive.google.com/file/d/1Al6PdmxPIglQ7s_Vb6G5OY9KNiG8o6kA/view?usp=sharing)
 
-# SCREENSHOTS
+# SCREENSHOTS :
 
 ![1](https://user-images.githubusercontent.com/72818829/117544910-2aa8cb00-b041-11eb-846c-25e7234e290f.jpg)
 ![2](https://user-images.githubusercontent.com/72818829/117544953-5035d480-b041-11eb-86fa-9ff5f0f7af75.jpg)
