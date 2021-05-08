@@ -1,7 +1,7 @@
 # FLUTTERISTIC COVID
 
 # VIDEO LINK :
-https://drive.google.com/file/d/1Al6PdmxPIglQ7s_Vb6G5OY9KNiG8o6kA/view?usp=sharing
+[LINK](https://drive.google.com/file/d/1Al6PdmxPIglQ7s_Vb6G5OY9KNiG8o6kA/view?usp=sharing)
 
 # SCREENSHOTS
 
